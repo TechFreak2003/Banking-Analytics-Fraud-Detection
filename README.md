@@ -27,6 +27,16 @@ A comprehensive system that combines **banking data analytics, business intellig
   <img src="https://via.placeholder.com/800x400.png?text=Banking+Dashboards+%26+Fraud+Detection" alt="Demo">
 </p>
 
+## 📸 Dashboard Previews
+
+<p align="center">
+  <img src="Visuals/Excel_dashboard.jpg" width="800"/><br><br>
+  <img src="Visuals/Powerbi_Dashboard.jpg" width="800"/><br><br>
+  <img src="Visuals/Tableau_Dashboard.jpg" width="800"/>
+</p>
+
+---
+
 ## 🌟 Features
 
 ### 📊 Banking Analytics
