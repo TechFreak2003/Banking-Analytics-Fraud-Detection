@@ -2,9 +2,6 @@
 
 A comprehensive system that combines **banking data analytics, business intelligence dashboards, and machine learning-based fraud detection** to derive insights and detect suspicious transactions.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Banking+Analytics+%26+Fraud+Detection" alt="Project Banner" />
-</p>
 
 <p align="center">
   <a href="https://github.com/TechFreak2003/Banking-Analytics-Fraud-Detection/issues"><img src="https://img.shields.io/github/issues/TechFreak2003/Banking-Analytics-Fraud-Detection"></a>
